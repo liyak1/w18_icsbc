@@ -1,7 +1,10 @@
 1) What are three interesting facts about you?
-
+I enjoy dancing, eating, and listening to music.
 
 2) What's your favorite song and movie?
-
+My favorite song is currently "Santa Tell Me" by Ariana Grande;
+My favorite movie is The Holiday Calendar
 
 3) Why do you want to learn how to program?
+I want to learn how to program so that I can build software to help people
+from disadvantaged communities by collaborating with the mission of nonprofits.
