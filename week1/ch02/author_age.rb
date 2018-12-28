@@ -5,6 +5,6 @@
 
 
 note_to_self = 'author is 1.16 billion seconds old'
-seconds_in_a_year = 365.25*24*60*60
-net_years_from_seconds = 1160000000/seconds_in_a_year
-answer = net_years_from_seconds
+seconds_in_a_year = 365.25*24*60*60.to_i
+net_years_from_seconds = 1160000000/seconds_in_a_year.to_i
+answer = net_years_from_seconds + 1
