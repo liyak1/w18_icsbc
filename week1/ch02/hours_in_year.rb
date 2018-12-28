@@ -5,3 +5,4 @@
 
 
 ### Your Code Here ###
+hours_in_a_year = (365.25*30.436*24).to_i

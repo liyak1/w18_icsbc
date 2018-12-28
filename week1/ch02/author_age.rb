@@ -4,4 +4,7 @@
 # Use 365.25 days/year to both take leap years into account and get a more accurate decimal
 
 
-### Your Code Here ###
+note_to_self = 'author is 1.16 billion seconds old'
+seconds_in_a_year = 365.25*24*60*60
+net_years_from_seconds = 1160000000/seconds_in_a_year
+answer = net_years_from_seconds

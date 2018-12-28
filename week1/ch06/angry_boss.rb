@@ -4,3 +4,5 @@
 
 
 ### Your Code Here ###
+what_you_want = gets.chomp.upcase
+puts 'WHAT DO YOU MEAN ' + what_you_want + '? YOU\'RE FIRED!'

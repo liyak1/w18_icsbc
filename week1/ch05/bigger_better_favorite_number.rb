@@ -4,3 +4,11 @@
 
 
 ### Your Code Here ###
+puts 'What is user\'s favorite number?'
+answer = gets.chomp
+puts answer
+
+
+puts 'What is user\'s favorite number?'
+suggested_answer = rand(100) + 1
+puts suggested_answer
